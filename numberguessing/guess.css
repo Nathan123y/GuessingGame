@@ -1,0 +1,13 @@
+body{
+    text-align: center; border:solid 1px black; background-color: antiquewhite; border-radius: 40px;margin: 30px 900px 0px 900px;
+}
+h3{
+    margin: 100px 0px 30px 0px;
+}
+input{
+    width: .6in; height: .3in; 
+}
+button{
+    border-radius: 15px; border: solid 1px black; color: black; background-color: white;margin: 0px 0px 200px 0px; width: 1in;height: .3in;
+}
+
